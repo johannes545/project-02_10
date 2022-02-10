@@ -1,0 +1,16 @@
+C:\Users\Johannes\Desktop\project folder\10_02\10_02\bin\Debug\net5.0\10_02.exe
+C:\Users\Johannes\Desktop\project folder\10_02\10_02\bin\Debug\net5.0\10_02.deps.json
+C:\Users\Johannes\Desktop\project folder\10_02\10_02\bin\Debug\net5.0\10_02.runtimeconfig.json
+C:\Users\Johannes\Desktop\project folder\10_02\10_02\bin\Debug\net5.0\10_02.runtimeconfig.dev.json
+C:\Users\Johannes\Desktop\project folder\10_02\10_02\bin\Debug\net5.0\10_02.dll
+C:\Users\Johannes\Desktop\project folder\10_02\10_02\bin\Debug\net5.0\ref\10_02.dll
+C:\Users\Johannes\Desktop\project folder\10_02\10_02\bin\Debug\net5.0\10_02.pdb
+C:\Users\Johannes\Desktop\project folder\10_02\10_02\obj\Debug\net5.0\10_02.csproj.AssemblyReference.cache
+C:\Users\Johannes\Desktop\project folder\10_02\10_02\obj\Debug\net5.0\10_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johannes\Desktop\project folder\10_02\10_02\obj\Debug\net5.0\10_02.AssemblyInfoInputs.cache
+C:\Users\Johannes\Desktop\project folder\10_02\10_02\obj\Debug\net5.0\10_02.AssemblyInfo.cs
+C:\Users\Johannes\Desktop\project folder\10_02\10_02\obj\Debug\net5.0\10_02.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Desktop\project folder\10_02\10_02\obj\Debug\net5.0\10_02.dll
+C:\Users\Johannes\Desktop\project folder\10_02\10_02\obj\Debug\net5.0\ref\10_02.dll
+C:\Users\Johannes\Desktop\project folder\10_02\10_02\obj\Debug\net5.0\10_02.pdb
+C:\Users\Johannes\Desktop\project folder\10_02\10_02\obj\Debug\net5.0\10_02.genruntimeconfig.cache
